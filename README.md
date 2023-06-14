@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+# Hosted Link
+https://recipe-finder-app-983d9.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
